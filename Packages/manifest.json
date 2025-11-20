@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.meta.xr.sdk.all": "81.0.0",
     "com.meta.xr.sdk.core": "81.0.0",
     "com.meta.xr.sdk.movement": "https://github.com/oculus-samples/Unity-Movement.git",
     "com.unity.collab-proxy": "2.10.2",
